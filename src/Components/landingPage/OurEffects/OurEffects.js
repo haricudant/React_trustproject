@@ -56,7 +56,7 @@ const ourWorks = () => {
 					<h3 class="display-5 text-center font-weight-light our_efforts">
 						<strong>Our Efforts </strong>to make this world a better place
 					</h3>
-					<p class="text-center w-responsive mx-auto mb-10 font-weight-light sub_title">
+					<p class="text-center font-weight-light sub_title">
 						He who has never denied himself for the sake of giving, has but glanced at the joys of <strong>charity.</strong>
 					</p>
 				</div>
